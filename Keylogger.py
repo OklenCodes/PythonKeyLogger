@@ -1,5 +1,5 @@
 import pynput
-from punput.keyboard import Listener,Key
+from pynput.keyboard import Listener,Key
 
 lines = ""
 
